@@ -1,0 +1,1 @@
+select sum(quantity) as total_quantity from pizza_sales_data;

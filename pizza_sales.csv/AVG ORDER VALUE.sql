@@ -1,0 +1,1 @@
+select sum(total_price) / count(distinct order_id) As Average_Order_Value from pizza_sales_data;

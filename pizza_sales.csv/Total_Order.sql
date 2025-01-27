@@ -1,0 +1,1 @@
+select count(distinct order_id) as total_orde_placed from pizza_sales_data;
